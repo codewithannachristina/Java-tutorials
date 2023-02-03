@@ -3,7 +3,7 @@
 
 # Naming Conventions
 
-Naming Conventions | Application | Examples 
+#Naming Conventions | #Application | #Examples 
 --- | --- | --- 
 Lower Camel Case | Variables and methods | myVariable, myMethod, myFirstInteger 
 --- | --- | ---
